@@ -1,5 +1,6 @@
 import streamlit as st
 
+
 def square_number(n):
     return n ** 2
 
